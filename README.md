@@ -27,3 +27,6 @@ Key Features:
    In a world where concurrency is king, Puss-C++ unveils the Whisker-Twitch parallel processing framework, enabling programmers to handle parallel tasks with the finesse and awareness of a cat's twitching whiskers.
 
 Puss-C++ heralds a playful yet serious endeavor to extend the boundaries of what C++ can achieve, by interweaving the elegance of feline-inspired constructs with the robust foundation of C++. This extension invites programmers to explore a new horizon of coding, where creativity and efficiency dance to the rhythm of feline finesse.
+
+## Getting Started
+To begin your journey with Puss-C++, clone this repository and run `CatMain.cpp` to experience the first purr of this innovative extension to C++.
