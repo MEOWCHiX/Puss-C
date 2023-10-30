@@ -27,7 +27,7 @@ void displayPawVector(const std::vector<T, PawPrintAllocator<T>>& pawVector) {
 // Function to perform a risky operation that may cause a cat misstep.
 void riskyOperation(int chance) {
     if_cat(chance == 0) {
-        scratch("Oh no, a cat misstep!");
+        scratch("Oh no, a hair ball!");
     }
 }
 
