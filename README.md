@@ -34,5 +34,9 @@ To begin your journey with Puss-C++, clone this repository and run `CatMain.cpp`
 ## Paw-Print Memory Management
 The Paw-Print Memory Management is a playful take on custom memory allocation in C++. By utilizing the `PawPrintAllocator`, you can manage memory allocation and deallocation with a feline touch. Run `PawPrintMemoryManager.cpp` to see the Paw-Print Memory Management in action.
 
+## Agile Error Handling
+Agile Error Handling in Puss-C++ is epitomized by the `CatError` class, a nimble mechanism to capture and address issues in your code. Just as a cat navigates through a labyrinth with grace and lands on its feet post a misstep, the `CatError` class aids programmers in handling errors with finesse. Run `AgileErrorHandler.cpp` to experience the agility in error handling that Puss-C++ offers.
+
+
 ## Purrsistent Data Structures
 Purrsistent Data Structures in Puss-C++ provide a whimsical take on immutability and persistence. The `PurrsistentVector` is a simple illustration of a purrsistent data structure that retains previous versions of itself upon modification, aligning with the playful narrative of Puss-C++. Run `PurrsistentUsage.cpp` to observe the Purrsistent Data Structure in action.
